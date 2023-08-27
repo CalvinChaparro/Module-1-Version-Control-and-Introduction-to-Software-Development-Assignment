@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=(Part\ (1)\ of\ the\ assignment.\ User\ runs\ program\ via\ (Main),\ and\ is\ presented\ \r\n\ with\ interger\ index,\ double\ index\ and\ string\ index\ with\ the\ values\ provided.\r\n\ If\ a\ value\ that\ is\ not\ found,\ a\ -1\ will\ be\ thrown.\ Code\ is\ not\ perfect,\r\n\ but\ may\ be\ on\ the\ right\ track\ with\ the\ overall\ parameters\ of\ the\ assignment.\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
